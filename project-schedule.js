@@ -1,6 +1,6 @@
 /* Project schedule & group status. Edit it from the site (Trainer login), then replace this file. */
 window.PROJECT_SCHEDULE = {
- "pinHash": "c27067e1003137c081422c24a628cfcfa2a3bbcd798c5cde82e545b208a1d584",
+ "pinHash": "70af5c5a1b84719994b8f7396cf701897fbec6ae2308846c66c1b21939416311",
  "active": "SWG-OCT26",
  "projects": [
   {
